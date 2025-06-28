@@ -20,22 +20,22 @@ A full-stack real-time chat application built using the **MERN stack** — Mongo
 ##  How to Run
 1. **Clone the repository**:
    ```bash
- git clone https://github.com/your-username/mern-chat.git
-cd mern-chat
+      git clone https://github.com/your-username/mern-chat.git
+      cd mern-chat
    
  2. 
       ```bash
-  npm install concurrently --save-dev   # If not already installed
-npm run install-all                   # Install frontend + backend packages
+         npm install concurrently --save-dev   # If not already installed
+         npm run install-all                   # Install frontend + backend packages
 
       
  3.   ```bash
-        PORT=5000
-MONGO_URI=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret
+          PORT=5000
+          MONGO_URI=your_mongo_connection_string
+          JWT_SECRET=your_jwt_secret
 
 4.   ```bash
-  npm run dev
+          npm run dev
 
 
 4

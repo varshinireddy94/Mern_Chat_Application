@@ -18,7 +18,7 @@ A full-stack real-time chat application built using the **MERN stack** — Mongo
 ---
 
 ##  How to Run
-1. **Clone the repository**:
+1. 
    ```bash
       git clone https://github.com/your-username/mern-chat.git
       cd mern-chat

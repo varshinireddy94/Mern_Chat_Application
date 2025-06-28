@@ -38,7 +38,4 @@ A full-stack real-time chat application built using the **MERN stack** — Mongo
           npm run dev
 
 
-4
-```bash
-npm run dev
 
